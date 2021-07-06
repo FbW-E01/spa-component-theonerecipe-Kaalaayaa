@@ -1,0 +1,13 @@
+.App {
+ background-color: papayawhip
+}
+
+.Container {
+    border: 2px solid black;
+    margin: auto;
+    width: 80%;
+}
+
+.font-face-gm {
+    font-family: "CompagnonBold";
+}
